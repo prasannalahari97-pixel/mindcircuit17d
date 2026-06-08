@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:white;">
+<body style="background-color:yellow;">
 
 <h1>WELCOME TO JENKINS PIPELINE WORLD </h1>
 
